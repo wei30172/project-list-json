@@ -1,21 +1,21 @@
 {
   "projects": [
     {
-      "title": "E-Commerce Website",
+      "id": 1, "title": "E-Commerce Website",
       "time": "2020.04",
       "keywords": ["Vue", "Firebase", "Bootstrap"],
       "link": "https://vue-shop-3b5cc.web.app",
       "description": "Built a shopping website with Vue, Firebase and Bootstrap."
     },
     {
-      "title": "Snake Game",
+      "id": 2, "title": "Snake Game",
       "time": "2020.10",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Snake_Game/",
       "description": "Used HTML, CSS, JavaScript to build a snake game (users can use the arrow key to change the direction)."
     },
     {
-      "title": "Tic Tac Toe",
+      "id": 3, "title": "Tic Tac Toe",
       "time": "2020.10",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Tic_Tac_Toe/",
