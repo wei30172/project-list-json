@@ -1,19 +1,18 @@
 {
   "projects": [
-    { "title": "Project1",
-      "keywords": ["React"],
-      "link": "https://github.com/wei30172",
-      "description": "lorem ipsum...",
-      "id": 1 },
-    { "title": "Project2",
-      "keywords": ["Game"],
-      "link": "https://github.com/wei30172",
-      "description": "lorem ipsum...",
-      "id": 2 },
-    { "title": "Project3",
-      "keywords": ["React"],
-      "link": "https://github.com/wei30172",
-      "description": "lorem ipsum...",
-      "id": 3 }
+    {
+      "id": 1, "title": "Snake Game",
+      "time": "2020.10",
+      "keywords": ["HTML", "CSS", "JavaScript"],
+      "link": "https://wei30172.github.io/Snake_Game/",
+      "description": "Used HTML, CSS, JavaScript to build a snake game (users can use the arrow key to change the direction)."
+    },
+    {
+      "id": 2, "title": "E-Commerce Website",
+      "time": "2020.04",
+      "keywords": ["Vue", "Firebase", "Bootstra"],
+      "link": "https://vue-shop-3b5cc.web.app",
+      "description": "Built a shopping website with Vue, Firebase and Bootstrap."
+    }
   ]
 }
