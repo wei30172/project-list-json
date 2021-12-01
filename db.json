@@ -13,13 +13,6 @@
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Snake_Game/",
       "description": "Used HTML, CSS, JavaScript to build a snake game (users can use the arrow key to change the direction)."
-    },
-    {
-      "title": "Tic Tac Toe",
-      "time": "2020.10",
-      "keywords": ["HTML", "CSS", "JavaScript"],
-      "link": "https://wei30172.github.io/Tic_Tac_Toe/",
-      "description": "Used HTML, CSS, JavaScript to build a simple tic-tac-toe game."
-    },
+    }
   ]
 }
