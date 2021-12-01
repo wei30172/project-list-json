@@ -5,21 +5,24 @@
       "time": "2020.04",
       "keywords": ["Vue", "Firebase", "Bootstrap"],
       "link": "https://vue-shop-3b5cc.web.app",
-      "description": "Built a shopping website with Vue, Firebase and Bootstrap."
+      "description": "Built a shopping website with Vue, Firebase and Bootstrap.",
+      "images": ["e-commerce1", "e-commerce2", "e-commerce3", "e-commerce4", "e-commerce5", "e-commerce6"]
     },
     {
       "id": 2, "title": "Snake Game",
       "time": "2020.10",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Snake_Game/",
-      "description": "Used HTML, CSS, JavaScript to build a snake game (users can use the arrow key to change the direction)."
+      "description": "Used HTML, CSS, JavaScript to build a snake game (users can use the arrow key to change the direction).",
+      "images": ["snake-game1", "snake-game2", "snake-game3"]
     },
     {
       "id": 3, "title": "Tic Tac Toe",
       "time": "2020.10",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Tic_Tac_Toe/",
-      "description": "Used HTML, CSS, JavaScript to build a simple tic-tac-toe game."
+      "description": "Used HTML, CSS, JavaScript to build a simple tic-tac-toe game.",
+      "images": ["tic-tac-toe1", "tic-tac-toe2", "tic-tac-toe3"]
     }
   ]
 }
