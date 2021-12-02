@@ -7,8 +7,6 @@
       "link": "memory-game-react-bay.vercel.app/",
       "description": "Used React, Deno, Websockets to build a memory game.",
       "images": ["tic-tac-toe1", "tic-tac-toe2", "tic-tac-toe3"],
-      // "images": ["react-memory-game1", "react-memory-game2", "react-memory-game3"],
-      // https://github.com/wei30172/memory-game-react.git
     },
     {
       "id": 2, "title": "React Login Identification",
@@ -17,8 +15,6 @@
       "link": "toy-vibes.netlify.app/",
       "description": "Used React, Next.js to complete the identification process.",
       "images": ["tic-tac-toe1", "tic-tac-toe2", "tic-tac-toe3"],
-      // "images": ["login-dentification1", "login-dentification2", "login-dentification3"],
-      // https://github.com/wei30172/loginpage-next-netlify.git
     },
     {
       "id": 3, "title": "React Recipe Web",
@@ -27,8 +23,6 @@
       "link": "recipe-next-contentful-three.vercel.app/",
       "description": "Used React, Next.js & Contentful Site build recipe web.",
       "images": ["tic-tac-toe1", "tic-tac-toe2", "tic-tac-toe3"],
-      // "images": ["react-recipe-web1", "react-recipe-web2", "react-recipe-web3"],
-      // https://github.com/wei30172/recipe-next-contentful.git
     },
     {
       "id": 4, "title": "Websockets Chatroom",
@@ -37,8 +31,6 @@
       "link": "deno-ws-chatroom.herokuapp.com/",
       "description": "Built an online chatroom with React, Deno, Websockets.",
       "images": ["tic-tac-toe1", "tic-tac-toe2", "tic-tac-toe3"],
-      // "images": ["websockets-chatroom1", "websockets-chatroom2", "websockets-chatroom3"],
-      // https://github.com/wei30172/chatroom-deno-websockets.git
     },
     {
       "id": 5, "title": "React Bulletin Board",
@@ -47,8 +39,6 @@
       "link": "https://react-project-web-a896d.web.app/",
       "description": "Used React, Redux & Firebase build bulletin board.",
       "images": ["tic-tac-toe1", "tic-tac-toe2", "tic-tac-toe3"],
-      // "images": ["react-bulletin-board1", "react-bulletin-board2", "react-bulletin-board3"],
-      // https://github.com/wei30172/react-project-web.git
     },
     {
       "id": 6, "title": "React Reading List",
@@ -57,8 +47,6 @@
       "link": "booklist-context-hooks.vercel.app/",
       "description": "Used React to make a simple reading list.",
       "images": ["tic-tac-toe1", "tic-tac-toe2", "tic-tac-toe3"],
-      // "images": ["react-reading-list1", "react-reading-list2", "react-reading-list3"],
-      // https://github.com/wei30172/booklist-context-hooks.git
     },
     {
       "id": 7, "title": "Snake Game",
