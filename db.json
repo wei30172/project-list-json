@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "id": 7, "title": "Snake Game",
+      "id": 1, "title": "Snake Game",
       "time": "2020.10",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Snake_Game/",
@@ -9,7 +9,7 @@
       "images": ["snake-game1", "snake-game2", "snake-game3"],
     },
     {
-      "id": 8, "title": "Tic Tac Toe",
+      "id": 2, "title": "Tic Tac Toe",
       "time": "2020.10",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Tic_Tac_Toe/",
@@ -17,7 +17,7 @@
       "images": ["tic-tac-toe1", "tic-tac-toe2", "tic-tac-toe3"],
     },
     {
-      "id": 9, "title": "E-Commerce Website",
+      "id": 3, "title": "E-Commerce Website",
       "time": "2020.04",
       "keywords": ["Vue", "Firebase", "Bootstrap"],
       "link": "https://vue-shop-3b5cc.web.app",
