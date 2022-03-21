@@ -37,7 +37,7 @@
       "time": "2021.11",
       "keywords": ["React", "Next"],
       "link": "https://recipe-next-contentful-three.vercel.app/",
-      "description": "Used React, Next.js to build a recipe web.",
+      "description": "Used React and Next.js to build a recipe web.",
       "images": ["react-recipe-web1", "react-recipe-web2"]
     },
     {
